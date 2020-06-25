@@ -5,10 +5,12 @@ In tribute to the late Sir Terry Pratchett many users are adding the message "GN
 Download the latest release directly from the [Mozilla Addon site](https://addons.thunderbird.net/en-CA/thunderbird/addon/clacks-overhead/)
 
 
+
 ## Credits
 **Concept**: Richard Atha-Nicholls
 **Art**: Amy Atha-Nicholls
 **Original Firefox extension**: Rob Grundy
+
 
 ## License
 
