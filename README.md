@@ -1,5 +1,7 @@
 # Thunderbird Clacks Overhead
 
+[![Extension Version](https://img.shields.io/github/v/release/bhyn/Thunderbird-Clacks-Overhead?label=thunderbird%20addon)](https://addons.thunderbird.net/en-CA/addon/clacks-overhead/) [![Daily User Count](https://img.shields.io/badge/dynamic/json?url=https://addons.thunderbird.net/en-US/thunderbird/addon/clacks-overhead/statistics/overview-day-20200930-20201001.json&label=users&query=$..data.updates&color=blue)](https://addons.thunderbird.net/en-US/thunderbird/addon/clacks-overhead/statistics/?last=90)
+
 In tribute to the late Sir Terry Pratchett many users are adding the message "GNU Terry Pratchett" into the email header "X-Clacks-Overhead". This plugin allows you to see when an email is using the header and read the message included.
 
 Download the latest release directly from the [Mozilla Addon site](https://addons.thunderbird.net/en-CA/thunderbird/addon/clacks-overhead/)
