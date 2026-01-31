@@ -1,7 +1,7 @@
 {
   "name": "Clacks Overhead",
   "description": "Display the X-Clacks-Overhead in Clacks Semaphore",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "Shane Eskritt",
   "applications": {
     "gecko": {

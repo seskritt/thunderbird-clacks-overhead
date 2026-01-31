@@ -18,7 +18,9 @@ function clearClacks(tabId, tabClosed) {
       },
       tabId: tabId,
     });
-    browser.messageDisplayAction.setTitle({ tabId: tabId, title: 'Clacks' });
+    browser.messageDisplayAction.setTitle({ tabId: tabId, title: 'No Clacks header in this email.' });
+    browser.messageDisplayAction.setLabel({ tabId: tabId, label: 'Clacks' });
+
   }
 }
 browser.tabs.onRemoved.addListener((tabId, removeInfo) => {
