@@ -37,6 +37,7 @@ browser.messageDisplay.onMessageDisplayed.addListener((tab, message) => {
       emailId[tab.id] = message.id;
 
       browser.messageDisplayAction.setTitle({ tabId: tab.id, title: clacksMessage[tab.id] });
+      browser.messageDisplayAction.setLabel({ tabId: tab.id, label: clacksMessage[tab.id].substring(0, 32) + "..." });
 
       tabs[tab.id] = setInterval(() => {
         loop += 1;
